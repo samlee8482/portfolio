@@ -14,7 +14,7 @@
 * 웹 화면 구성 : HTML, CSS, JavaScript, BootStrap   
 * 결과를 얻어오기 위한 서버 액션 : JAVA(jdk 1.8.0_221), JSP, JSTL, EL   
 * 프레임워크 : SpringFramework(5.2.1ver), MyBatis
-* DB액션 처리: JDBC, MariaDB(10.4ver)   
+* DB액션 처리 : JDBC, MariaDB(10.4ver)   
 * 개발 Tool : Eclips(Photon), GitHub, Apache Tomcat(v8.5.49)   
 * 기타 라이브러리 : CKEditor, 데이트피커, KakaoDevelopers, JavaMailAPI   
 - - -
@@ -32,6 +32,6 @@
 * 검색 결과 데이터 요청 및 출력 : jQuery, Ajax, JSON   
 * 웹 화면 구성 : HTML, CSS, JavaScript, BootStrap   
 * 결과를 얻어오기 위한 서버 액션 : JAVA(jdk 1.8.0_221), JSP, JSTL, EL   
-* DB액션 처리: JDBC, MariaDB(10.4ver)   
+* DB액션 처리 : JDBC, MariaDB(10.4ver)   
 * 개발 Tool : Eclips(Photon), GitHub, Apache Tomcat(v8.5.49)   
 * 기타 라이브러리 : CKEditor, Google Maps, JavaMailAPI   

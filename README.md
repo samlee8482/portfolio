@@ -3,7 +3,7 @@
 - samlee8482@gmail.com
 - 숭실대학교 글로벌미디어학부 졸업
 - JAVA 및 웹 어플리케이션 제작
-- HTML / CSS / JAVASCRIPT / JQUERY / AJAX / MARIADB / ORACLE / JSP / SPRING / GIT   
+- HTML / CSS / JAVASCRIPT / JQUERY / AJAX / MARIADB / ORACLE / JSP / SPRING / MYBATIS / GIT   
 --- 
 ### 프로젝트
 [편의시설 예약 사이트 - '놀먹자' (바로가기)](https://github.com/samlee8482/project_nmj)   
